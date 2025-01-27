@@ -4,7 +4,7 @@
 
 ♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern food delivery application built with Flutter featuring a clean and intuitive user interface.
 
-![App Cover](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/Food%20Couriers%20Mockup.jpg)
+![App Cover](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/App%20Cover.jpg)
 
 ## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
  - **Seamless User Experience:** Clean and intuitive UI design for easy navigation
@@ -23,11 +23,9 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Splash Screen](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/Splash%20Screen.JPG)  
-![Home Screen](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/Home%20Screen.JPG)
-![Food Details Screen](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/Food%20Details%20Screen.JPG)
-![Profile Screen](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/Profile%20Screen.JPG)
-
+![#01](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/01.jpg) 
+![#02](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/02.jpg) 
+![#03](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/App_Screenshots/03.jpg) 
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
