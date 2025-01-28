@@ -3,6 +3,7 @@
 ## **Project Description**
 
 Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern food delivery application built with Flutter featuring a clean and intuitive user interface. 
+
 ![App Cover](https://github.com/hwb06/Flutter_FoodCourier_UI/blob/main/assets/Project%20Showcase/App%20Cover.jpg)
 
 ## **Key Features**
